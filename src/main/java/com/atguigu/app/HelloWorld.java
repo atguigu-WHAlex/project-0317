@@ -8,6 +8,8 @@ public class HelloWorld {
 
         System.out.println("Hot-Fix");
 
+        System.out.println("aaa");
+
     }
 
 }
